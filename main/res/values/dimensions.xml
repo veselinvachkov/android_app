@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="calcButtonTextSize">35sp</dimen>
+    <dimen name="symbolSize">40sp</dimen>
+
+</resources>
